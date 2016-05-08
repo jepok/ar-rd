@@ -28,11 +28,15 @@ Primary use: Resume, Portfolio
 #contact h3 {
 	margin-bottom: 1%;
 }
+#faq , #faq a{
+	font-size: 2.5rem;
+}
 /*.iconbox {
 	border-top:2px solid #CF9C63;
 	border-left: 2px solid #CF9C63;
 	border-right: 2px solid #CF9C63;
 }*/
+
 /** end dev custom styles **/
 
 body {
@@ -1248,19 +1252,19 @@ p.copyright {
 	margin-top: -23px;
 }
 
-.owl-controls .owl-buttons .owl-prev {
+.owl-controls .owl-nav .owl-prev {
 	position: absolute;
 	right: auto;
 	left: 0;
 }
 
-.owl-controls .owl-buttons .owl-next {
+.owl-controls .owl-nav .owl-next {
 	position: absolute;
 	right: 0;
 	left: auto;
 }
 
-.owl-theme .owl-controls .owl-buttons div {
+.owl-theme .owl-controls .owl-nav div {
 	background: #fff;
 	display: block;
 	height: 46px;

@@ -3,12 +3,12 @@
 */
 
 a {
-	color: #00BFFF;
+	color: #001D88;
 }
 
 a:hover,
 a:focus {
-	color: #00A6E6;
+	color: #5C6FB4;
 }
 
 /*------------------------------------------------------------------
@@ -17,19 +17,19 @@ a:focus {
 
 .btn.btn-def,
 .btn.btn-def.btn-outline:hover {
-	border-color: #00BFFF;
-	background: #00BFFF;
+	border-color: #001D88;
+	background: #001D88;
 	color: #fff;
 }
 
 .btn.btn-def:hover {
-	border-color: #00A6E6;
-	background: #00A6E6;
+	border-color: #5C6FB4;
+	background: #5C6FB4;
 }
 
 .btn.btn-def.btn-outline {
 	background: transparent;
-	color: #00BFFF;
+	color: #001D88;
 }
 
 /*------------------------------------------------------------------
@@ -37,7 +37,7 @@ a:focus {
 */
 
 .progress-bar.progress-bar-def {
-	background: #00BFFF;
+	background: #001D88;
 }
 
 /*------------------------------------------------------------------
@@ -47,7 +47,7 @@ a:focus {
 .nav-tabs > li.active > a,
 .nav-tabs > li.active > a:hover,
 .nav-tabs > li.active > a:focus {
-	color: #00BFFF;
+	color: #001D88;
 }
 
 /*------------------------------------------------------------------
@@ -59,7 +59,7 @@ a:focus {
 .pagination > li > span:focus,
 .pagination > li > span:hover,
 .pagination > li > span.current {
-	color: #00BFFF;
+	color: #001D88;
 }
 
 /*------------------------------------------------------------------
@@ -67,7 +67,7 @@ a:focus {
 */
 
 .filters li a.current {
-	color: #00BFFF;
+	color: #001D88;
 }
 
 /*------------------------------------------------------------------
@@ -75,11 +75,11 @@ a:focus {
 */
 
 .iconbox-icon {
-	background: #00BFFF;
+	background: #001D88;
 }
 
 .iconbox-icon:hover:after {
-	border-color: #00BFFF;
+	border-color: #001D88;
 }
 
 /*------------------------------------------------------------------
@@ -87,5 +87,5 @@ a:focus {
 */
 
 .profile-icon {
-	color: #00BFFF;
+	color: #001D88;
 }

@@ -150,10 +150,11 @@
 			margin:2,
 			dots:true,
 			nav: true,
+			navText: ['<i class="fa fa-angle-left"></i>', '<i class="fa fa-angle-right"></i>'],
+
 			responsive:{
 				0:{
 					items:1,
-					nav:true
 				},
 				480:{
 					items:3,
