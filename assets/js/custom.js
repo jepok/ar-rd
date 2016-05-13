@@ -169,12 +169,17 @@
 		});
 
 		$('.slider-images').owlCarousel({
-			singleItem: true,
+			// singleItem: true,
+			loop:true,
+			items:1,
 			autoHeight: false,
-			navigation: true,
+			autowidth:false,
+			nav: true,
 			pagination: false,
 			autoPlay:   3000,
-			navigationText: ['<i class="fa fa-angle-left"></i>', '<i class="fa fa-angle-right"></i>'],
+			dots:true,
+			navText: ['<i class="fa fa-angle-left"></i>', '<i class="fa fa-angle-right"></i>'],
+
 		});
 
 		$('.carousel-clients').owlCarousel({
