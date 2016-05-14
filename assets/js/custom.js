@@ -241,6 +241,10 @@
 			gallery: { enabled: true },
 		});
 
+		$('.counter-warning').magnificPopup({
+			type: 'inline'
+		});
+
 		/* ---------------------------------------------- /*
 		 * WOW Animation
 		/* ---------------------------------------------- */
