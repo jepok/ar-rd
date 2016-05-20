@@ -1,11 +1,11 @@
 <?php
 
 	// Mail settings
-	$to      = "web-master72@yandex.ru";
-	$subject = "Test Contact Form";
+	$to      = "jeremypokorski@gmail.com";
+	$subject = "Apartments Resurfacing Contact Form";
 
 	// You can put here your email
-	$header = "From: noreply@parker.com\r\n";
+	$header = "From: Apartments Resurfacing\r\n";
 	$header.= "MIME-Version: 1.0\r\n";
 	$header.= "Content-Type: text/plain; charset=utf-8\r\n";
 	$header.= "X-Priority: 1\r\n";
@@ -25,7 +25,7 @@
 			echo json_encode($result);
 		} else {
 			$result = array(
-				"message"    => "Sorry, something is wrong.",
+				"message"    => "Sorry, something went wrong.",
 				"sendstatus" => 0
 			);
 

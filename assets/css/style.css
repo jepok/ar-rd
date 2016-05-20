@@ -22,7 +22,7 @@ Primary use: Resume, Portfolio
 	color:white;
 	background-color: black;
 }
-#tubs h3, #counters h3{
+#tubs h3, #counters h3, #cabinets h3{
 	position:absolute;
 	top:15%;
 	left:10%;
@@ -33,7 +33,7 @@ Primary use: Resume, Portfolio
 	box-shadow: 0px 0px 25px 25px rgba(250,250,250,0.3);
 
 }
-#tubs .items, #counters .items {
+#tubs .items, #counters .items, #cabinets .items {
 	width:75%;
 }
 .iconbox p {
@@ -69,12 +69,9 @@ Primary use: Resume, Portfolio
 	}*/
 
 
-/*.iconbox {
-	border-top:2px solid #CF9C63;
-	border-left: 2px solid #CF9C63;
-	border-right: 2px solid #CF9C63;
-}*/
-
+#hero {
+	 background-image: url("http://apartmentsresurfacing.com/rd/assets/images/ar-vid-bg-v2.jpg");
+}
 
 @media (max-width:680px) {
 		.counter-warning-content p {
