@@ -1,7 +1,7 @@
 <?php
 
 	// Mail settings
-	$to      = "jeremypokorski@gmail.com";
+	$to      = "apartmentsresurfacing@hotmail.com";
 	$subject = "Apartments Resurfacing Contact Form";
 
 	// You can put here your email
